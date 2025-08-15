@@ -1,5 +1,4 @@
-![Skyport Banner](<img width="821" height="532" alt="image" src="https://github.com/user-attachments/assets/a1842bfd-323d-4c98-b335-5a6fd3b7b9fc" />)
-)
+![Skyport Banner](<img width="832" height="532" alt="image" src="https://github.com/user-attachments/assets/7ef0b454-9807-49bf-8385-01f4add14b2e" />)
 
 # How to Create Skyport Panel in Any VPS (CodeSandbox, GitHub Codespaces, Gitpod, etc.)
 
