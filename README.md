@@ -50,7 +50,4 @@ Log in to the panel via your browser, add nodes, and start hosting!
 ---
 
 **Credit:** Jishnu Extra  
-**Subscribe on YouTube:** [@ITZ_YTANSH_OFFICAL](https://youtube.com/@Jishnuextra69)
-
-![Skyport Footer](<img width="821" height="414" alt="image" src="https://github.com/user-attachments/assets/b80e92a6-e4ff-4865-b953-ccb895572111" />
-)
+**Subscribe on YouTube:** [@JishnuExtra69](https://youtube.com/@Jishnuextra69)
